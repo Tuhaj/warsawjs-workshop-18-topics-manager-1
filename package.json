@@ -1,0 +1,8 @@
+{
+  "name": "warsawjs-workshop-18-topics-manager",
+  "version": "1.0.0",
+  "description": "WarsawJS #18 Workshop",
+  "main": "index.js",
+  "author": "Piotr Zientara",
+  "license": "MIT"
+}
