@@ -4,5 +4,8 @@
   "description": "WarsawJS #18 Workshop",
   "main": "index.js",
   "author": "Piotr Zientara",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.6.2"
+  }
 }
